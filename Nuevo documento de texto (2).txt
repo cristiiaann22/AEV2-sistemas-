@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola adios error solucionado
+=======
+hola adios soy cristian tengo 18
+>>>>>>> portada
